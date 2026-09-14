@@ -17,7 +17,7 @@ Software Engineer at **Xpressbees**. I build tools end to end, send fixes upstre
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/TypeScript-1c222c?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/TypeScript-1c222c?style=flat-square&logo=typescript&logoColor=4A90E2" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-1c222c?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Python-1c222c?style=flat-square&logo=python&logoColor=5A9FD4" alt="Python" />
       <img src="https://img.shields.io/badge/C%2B%2B-1c222c?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++" />
@@ -29,23 +29,23 @@ Software Engineer at **Xpressbees**. I build tools end to end, send fixes upstre
       <img src="https://img.shields.io/badge/React-1c222c?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-1c222c?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Tailwind%20CSS-1c222c?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Framer%20Motion-1c222c?style=flat-square&logo=framer&logoColor=BB4BFF" alt="Framer Motion" />
+      <img src="https://img.shields.io/badge/Framer%20Motion-1c222c?style=flat-square&logo=framer&logoColor=D17BFF" alt="Framer Motion" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-1c222c?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Node.js-1c222c?style=flat-square&logo=nodedotjs&logoColor=7CC35B" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-1c222c?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-1c222c?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Pydantic-1c222c?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/FastAPI-1c222c?style=flat-square&logo=fastapi&logoColor=1ABC9C" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Pydantic-1c222c?style=flat-square&logo=pydantic&logoColor=FF5C9A" alt="Pydantic" />
       <img src="https://img.shields.io/badge/Prisma-1c222c?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-1c222c?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1c222c?style=flat-square&logo=postgresql&logoColor=6E9BEA" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Redis-1c222c?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
     </td>
   </tr>
@@ -54,8 +54,8 @@ Software Engineer at **Xpressbees**. I build tools end to end, send fixes upstre
     <td>
       <img src="https://img.shields.io/badge/Docker-1c222c?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS%20%C2%B7%20S3-1c222c?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGOTkwMCIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS45LTguOTEgNiA2IDAgMCAxIDExLjYzLTEuNTJBNS4yNSA1LjI1IDAgMCAxIDE3Ljc1IDE5eiIvPjwvc3ZnPg%3D%3D" alt="AWS · S3" />
-      <img src="https://img.shields.io/badge/nginx-1c222c?style=flat-square&logo=nginx&logoColor=009639" alt="nginx" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-1c222c?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/nginx-1c222c?style=flat-square&logo=nginx&logoColor=2FBF5B" alt="nginx" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-1c222c?style=flat-square&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Git-1c222c?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
     </td>
   </tr>
@@ -78,11 +78,11 @@ Software Engineer at **Xpressbees**. I build tools end to end, send fixes upstre
 ## Projects
 
 | Project | What it is |
-| --- | --- |
-| **[DevVault](https://github.com/cookieark7/devvault-backend)**<br><sub>[live ↗](https://devvault.arkexperiment.xyz/) · [dashboard](https://github.com/cookieark7/devvault-fe) · [extension](https://github.com/cookieark7/devvault-extension) · [MCP](https://github.com/cookieark7/devvault-mcp)</sub> | A personal knowledge vault for snippets, commands and prompts, found through semantic search on local Ollama embeddings. Express 5 and Prisma over Postgres, a Next.js dashboard, a Chrome extension with on-device OCR, and an MCP server for Claude Code.<br><sub>TypeScript · Express · PostgreSQL · Prisma · Ollama · MCP</sub> |
-| **[DevVault CLI](https://github.com/cookieark7/devvault-cli)** | Save a command, snippet or bookmark to DevVault without leaving the terminal, and search it from there too. It pulls candidates straight out of shell history, and a shell hook adds automatic tracking as you work.<br><sub>Node.js · CLI · Shell</sub> |
-| **[Kite Auth SDK](https://github.com/cookieark7/kite-auth-sdk)** | An async Python SDK for Zerodha Kite Connect that owns the whole token lifecycle: pluggable login, token exchange, persistence and automatic re-auth. On top of that, WebSocket tick streaming, retries, a circuit breaker and rate limiting, behind a 90% coverage gate.<br><sub>Python · asyncio · httpx · WebSockets · Playwright</sub> |
-| **[C++ HTTP Server](https://github.com/cookieark7/cpp_http_server)**<br><sub>[live demo ↗](https://kanban.arkexperiment.xyz/) · [kanban client](https://github.com/cookieark7/kanban)</sub> | An HTTP server built on raw sockets in C++, no framework, persisting to PostgreSQL and running behind nginx with TLS in Docker Compose. A React kanban board rides on top of it as the live demo.<br><sub>C++ · Sockets · PostgreSQL · nginx · Docker</sub> |
+| :--- | :--- |
+| **[DevVault](https://github.com/cookieark7/devvault-backend)**<br><sub>[live ↗](https://devvault.arkexperiment.xyz/)<br>[dashboard](https://github.com/cookieark7/devvault-fe)<br>[extension](https://github.com/cookieark7/devvault-extension)<br>[MCP&nbsp;server](https://github.com/cookieark7/devvault-mcp)</sub> | A personal knowledge vault for snippets, commands and prompts, found through semantic search on local Ollama embeddings. Express 5 and Prisma over Postgres, a Next.js dashboard, a Chrome extension with on-device OCR, and an MCP server for Claude Code.<br><sub>TypeScript · Express · PostgreSQL · Prisma · Ollama · MCP</sub> |
+| **[DevVault&nbsp;CLI](https://github.com/cookieark7/devvault-cli)** | Save a command, snippet or bookmark to DevVault without leaving the terminal, and search it from there too. It pulls candidates straight out of shell history, and a shell hook adds automatic tracking as you work.<br><sub>Node.js · CLI · Shell</sub> |
+| **[Kite&nbsp;Auth&nbsp;SDK](https://github.com/cookieark7/kite-auth-sdk)** | An async Python SDK for Zerodha Kite Connect that owns the whole token lifecycle: pluggable login, token exchange, persistence and automatic re-auth. On top of that, WebSocket tick streaming, retries, a circuit breaker and rate limiting, behind a 90% coverage gate.<br><sub>Python · asyncio · httpx · WebSockets · Playwright</sub> |
+| **[C++&nbsp;HTTP&nbsp;Server](https://github.com/cookieark7/cpp_http_server)**<br><sub>[live&nbsp;demo&nbsp;↗](https://kanban.arkexperiment.xyz/)<br>[kanban&nbsp;client](https://github.com/cookieark7/kanban)</sub> | An HTTP server built on raw sockets in C++, no framework, persisting to PostgreSQL and running behind nginx with TLS in Docker Compose. A React kanban board rides on top of it as the live demo.<br><sub>C++ · Sockets · PostgreSQL · nginx · Docker</sub> |
 | **[Jig-Scape](https://github.com/cookieark7/Jig-Scape)** | Infinite jigsaw puzzles from images generated locally on Apple Silicon with Stable Diffusion: no API keys, no cloud bill. Canvas slices each image procedurally, with randomised tabs and magnetic-snap placement, behind a FastAPI service.<br><sub>React · FastAPI · Stable Diffusion · Canvas</sub> |
 | **[Portfolio](https://github.com/cookieark7/aishwary-portfolio)**<br><sub>[live ↗](https://aishwary-portfolio-one.vercel.app)</sub> | The long version of this page: a scroll-through portfolio with projects, writing, open source and a way to reach me.<br><sub>Next.js 16 · React 19 · TypeScript · Tailwind v4 · Motion</sub> |
 
@@ -100,8 +100,8 @@ Contributions to [**SQLMesh**](https://github.com/SQLMesh/sqlmesh) (3.3k ★), t
 
 - **[Your TOTP code isn’t expiring. It’s in the wrong window.](https://medium.com/@aishwarykantode2/your-totp-code-isnt-expiring-it-s-in-the-wrong-window-2fb4f7ef9951)** · Jul 2026 · 11 min<br>
   Not a walkthrough of how OTP works, but a look at the core implementation and where the continuity of time quietly breaks.
-- **[Dockerizing a C++ Application (with Multi-Stage Builds)](https://medium.com/@aishwarykantode2/dockerizing-a-c-application-with-multi-stage-builds-f32152a8a5af)** · Mar 2026 · 4 min · [example code](https://github.com/cookieark7/cpp_random_password)<br>
-  C++ asks for far more setup than Node or FastAPI ever did. Multi-stage builds keep every bit of it out of the shipped image.
+- **[Dockerizing a C++ Application (with Multi-Stage Builds)](https://medium.com/@aishwarykantode2/dockerizing-a-c-application-with-multi-stage-builds-f32152a8a5af)** · Mar 2026 · 4 min<br>
+  C++ asks for far more setup than Node or FastAPI ever did. Multi-stage builds keep every bit of it out of the shipped image. [Example code →](https://github.com/cookieark7/cpp_random_password)
 
 More on [Medium →](https://medium.com/@aishwarykantode2)
 
