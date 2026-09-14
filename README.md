@@ -77,14 +77,29 @@ Software Engineer at **Xpressbees**. I build tools end to end, send fixes upstre
 
 ## Projects
 
-| Project | What it is |
-| :--- | :--- |
-| **[DevVault](https://github.com/cookieark7/devvault-backend)**<br><sub>[live ↗](https://devvault.arkexperiment.xyz/)<br>[dashboard](https://github.com/cookieark7/devvault-fe)<br>[extension](https://github.com/cookieark7/devvault-extension)<br>[MCP&nbsp;server](https://github.com/cookieark7/devvault-mcp)</sub> | A personal knowledge vault for snippets, commands and prompts, found through semantic search on local Ollama embeddings. Express 5 and Prisma over Postgres, a Next.js dashboard, a Chrome extension with on-device OCR, and an MCP server for Claude Code.<br><sub>TypeScript · Express · PostgreSQL · Prisma · Ollama · MCP</sub> |
-| **[DevVault&nbsp;CLI](https://github.com/cookieark7/devvault-cli)** | Save a command, snippet or bookmark to DevVault without leaving the terminal, and search it from there too. It pulls candidates straight out of shell history, and a shell hook adds automatic tracking as you work.<br><sub>Node.js · CLI · Shell</sub> |
-| **[Kite&nbsp;Auth&nbsp;SDK](https://github.com/cookieark7/kite-auth-sdk)** | An async Python SDK for Zerodha Kite Connect that owns the whole token lifecycle: pluggable login, token exchange, persistence and automatic re-auth. On top of that, WebSocket tick streaming, retries, a circuit breaker and rate limiting, behind a 90% coverage gate.<br><sub>Python · asyncio · httpx · WebSockets · Playwright</sub> |
-| **[C++&nbsp;HTTP&nbsp;Server](https://github.com/cookieark7/cpp_http_server)**<br><sub>[live&nbsp;demo&nbsp;↗](https://kanban.arkexperiment.xyz/)<br>[kanban&nbsp;client](https://github.com/cookieark7/kanban)</sub> | An HTTP server built on raw sockets in C++, no framework, persisting to PostgreSQL and running behind nginx with TLS in Docker Compose. A React kanban board rides on top of it as the live demo.<br><sub>C++ · Sockets · PostgreSQL · nginx · Docker</sub> |
-| **[Jig-Scape](https://github.com/cookieark7/Jig-Scape)** | Infinite jigsaw puzzles from images generated locally on Apple Silicon with Stable Diffusion: no API keys, no cloud bill. Canvas slices each image procedurally, with randomised tabs and magnetic-snap placement, behind a FastAPI service.<br><sub>React · FastAPI · Stable Diffusion · Canvas</sub> |
-| **[Portfolio](https://github.com/cookieark7/aishwary-portfolio)**<br><sub>[live ↗](https://aishwary-portfolio-one.vercel.app)</sub> | The long version of this page: a scroll-through portfolio with projects, writing, open source and a way to reach me.<br><sub>Next.js 16 · React 19 · TypeScript · Tailwind v4 · Motion</sub> |
+- **[DevVault](https://github.com/cookieark7/devvault-backend)** · [live ↗](https://devvault.arkexperiment.xyz/) · [dashboard](https://github.com/cookieark7/devvault-fe) · [extension](https://github.com/cookieark7/devvault-extension) · [MCP server](https://github.com/cookieark7/devvault-mcp)<br>
+  A personal knowledge vault for snippets, commands and prompts, found through semantic search on local Ollama embeddings. Express 5 and Prisma over Postgres, a Next.js dashboard, a Chrome extension with on-device OCR, and an MCP server for Claude Code.<br>
+  <sub>TypeScript · Express · PostgreSQL · Prisma · Ollama · MCP</sub>
+
+- **[DevVault CLI](https://github.com/cookieark7/devvault-cli)**<br>
+  Save a command, snippet or bookmark to DevVault without leaving the terminal, and search it from there too. It pulls candidates straight out of shell history, and a shell hook adds automatic tracking as you work.<br>
+  <sub>Node.js · CLI · Shell</sub>
+
+- **[Kite Auth SDK](https://github.com/cookieark7/kite-auth-sdk)**<br>
+  An async Python SDK for Zerodha Kite Connect that owns the whole token lifecycle: pluggable login, token exchange, persistence and automatic re-auth. On top of that, WebSocket tick streaming, retries, a circuit breaker and rate limiting, behind a 90% coverage gate.<br>
+  <sub>Python · asyncio · httpx · WebSockets · Playwright</sub>
+
+- **[C++ HTTP Server](https://github.com/cookieark7/cpp_http_server)** · [live demo ↗](https://kanban.arkexperiment.xyz/) · [kanban client](https://github.com/cookieark7/kanban)<br>
+  An HTTP server built on raw sockets in C++, no framework, persisting to PostgreSQL and running behind nginx with TLS in Docker Compose. A React kanban board rides on top of it as the live demo.<br>
+  <sub>C++ · Sockets · PostgreSQL · nginx · Docker</sub>
+
+- **[Jig-Scape](https://github.com/cookieark7/Jig-Scape)**<br>
+  Infinite jigsaw puzzles from images generated locally on Apple Silicon with Stable Diffusion: no API keys, no cloud bill. Canvas slices each image procedurally, with randomised tabs and magnetic-snap placement, behind a FastAPI service.<br>
+  <sub>React · FastAPI · Stable Diffusion · Canvas</sub>
+
+- **[Portfolio](https://github.com/cookieark7/aishwary-portfolio)** · [live ↗](https://aishwary-portfolio-one.vercel.app)<br>
+  The long version of this page: a scroll-through portfolio with projects, writing, open source and a way to reach me.<br>
+  <sub>Next.js 16 · React 19 · TypeScript · Tailwind v4 · Motion</sub>
 
 ## Open source
 
