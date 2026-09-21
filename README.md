@@ -109,6 +109,10 @@ Contributions to [**SQLMesh**](https://github.com/SQLMesh/sqlmesh) (3.3k ★), t
 
   ClickHouse Cloud rejected every table comment SQLMesh generated. The adapter declared how to comment views but never tables, so it fell back to embedding `COMMENT` inside `CREATE TABLE … AS SELECT`, which ClickHouse won't parse. Pointing it at the existing `ALTER TABLE` path fixed it: one missing flag, two lines.
 
+- ✅ **Merged** · [fix(tests): prevent schema collisions between integration test params](https://github.com/SQLMesh/sqlmesh/pull/6072)
+
+  Integration test params could land on the same schema, because the suffix was a short random id. It now pairs a hash of the param with a random tail, so params stay distinct without breaching Postgres's 63-character identifier limit.
+
 - 🟡 **Open** · [feat(clickhouse): add cloud_mode connection option](https://github.com/SQLMesh/sqlmesh/pull/6037)
 
 ## Writing
